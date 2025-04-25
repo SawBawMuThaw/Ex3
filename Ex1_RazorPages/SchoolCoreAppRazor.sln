@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolCoreAppRazor", "SchoolCoreAppRazor\SchoolCoreAppRazor.csproj", "{11B4D27B-7AE9-407D-81C7-4C9D7B548877}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex1", "Ex1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex2", "Ex2", "{1544BF11-FA8D-4E83-8A5B-72DD0A4900FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11B4D27B-7AE9-407D-81C7-4C9D7B548877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B4D27B-7AE9-407D-81C7-4C9D7B548877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B4D27B-7AE9-407D-81C7-4C9D7B548877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B4D27B-7AE9-407D-81C7-4C9D7B548877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11B4D27B-7AE9-407D-81C7-4C9D7B548877} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B903AC-903C-4A02-A63E-1FDE78C2298E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/.vs
+/Ex1_RazorPages/SchoolCoreAppRazor/bin
+/Ex2_MVC/SchoolAppCoreMVC/bin
+/Ex2_MVC/SchoolAppCoreMVC/obj
+/Ex1_RazorPages/SchoolCoreAppRazor/obj
+/Ex2_MVC/SchoolAppCoreMVC/wwwroot/lib/bootstrap
+/Ex2_MVC/SchoolAppCoreMVC/wwwroot/lib/jquery
+/Ex2_MVC/SchoolAppCoreMVC/wwwroot/lib/jquery-validation
+/Ex1_RazorPages/SchoolCoreAppRazor/wwwroot/lib/jquery
+/Ex1_RazorPages/SchoolCoreAppRazor/wwwroot/lib/jquery-validation-unobtrusive
+/Ex1_RazorPages/SchoolCoreAppRazor/wwwroot/lib/bootstrap
